@@ -1,5 +1,4 @@
-package Day3.Entity;
-
+package com.tnsif.Day3.Constructor;
 
 import java.util.Scanner;
 public class ConstructorDemo {

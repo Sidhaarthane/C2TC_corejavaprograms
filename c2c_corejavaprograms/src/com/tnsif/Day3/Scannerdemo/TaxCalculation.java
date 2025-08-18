@@ -1,4 +1,4 @@
-package Day3.Entity;
+package com.tnsif.Day3.Scannerdemo;
 
 public class TaxCalculation {
 	// function to calculate tax

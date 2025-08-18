@@ -1,4 +1,4 @@
-package Day3.Entity;
+package com.tnsif.Day3.Encapsulation;
 
 public class EncapsulationDemo {
 	public static void main(String[] args) {
@@ -11,4 +11,5 @@ public class EncapsulationDemo {
 		System.out.println(obj);
 		
 	}
+
 }
