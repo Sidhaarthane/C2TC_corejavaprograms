@@ -1,4 +1,4 @@
-package com.tnsif.daytwentytwo.v1.usingpostgresql;
+package com.tnsif.Day22.v1.usingpostgresql;
 
 import java.sql.CallableStatement;
 import java.sql.Connection;

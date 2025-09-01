@@ -1,5 +1,5 @@
 //Program to define Employee entity
-package com.tnsif.daytwentytwo.v1.usingpreparedstatement;
+package com.tnsif.Day22.v1.usingpreparedstatement;
 
 public class Employee {
 	private int empId;

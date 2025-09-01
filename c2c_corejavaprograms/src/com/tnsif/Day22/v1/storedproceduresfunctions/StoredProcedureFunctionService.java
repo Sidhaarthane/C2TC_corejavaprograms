@@ -1,5 +1,5 @@
 //Program to define student service class using stored procedure and functions
-package com.tnsif.daytwentytwo.v1.storedproceduresfunctions;
+package com.tnsif.Day22.v1.storedproceduresfunctions;
 
 import java.sql.CallableStatement;
 import java.sql.Connection;
@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.sql.Types;
 
-import com.tnsif.daytwentytwo.v1.usingpreparedstatement.DBUtil;
+import com.tnsif.Day22.v1.usingpreparedstatement.DBUtil;
 
 public class StoredProcedureFunctionService {
 	static Connection con;

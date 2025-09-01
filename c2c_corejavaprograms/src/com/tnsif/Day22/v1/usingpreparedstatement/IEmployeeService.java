@@ -1,5 +1,5 @@
 //program to define interface for CRUD operation
-package com.tnsif.daytwentytwo.v1.usingpreparedstatement;
+package com.tnsif.Day22.v1.usingpreparedstatement;
 
 import java.sql.SQLException;
 import java.util.List;

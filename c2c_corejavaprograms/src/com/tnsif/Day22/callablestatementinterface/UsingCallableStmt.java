@@ -1,5 +1,5 @@
 //Program to demonstrate Callable Statement Interface
-package com.tnsif.daytwentytwo.callablestatementinterface;
+package com.tnsif.Day22.callablestatementinterface;
 
 import java.sql.CallableStatement;
 import java.sql.Connection;

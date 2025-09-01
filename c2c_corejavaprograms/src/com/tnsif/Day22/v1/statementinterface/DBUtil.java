@@ -1,5 +1,5 @@
 //Program to demonstrate Database Setting
-package com.tnsif.daytwentytwo.v1.statementinterface;
+package com.tnsif.Day22.v1.statementinterface;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

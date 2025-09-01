@@ -1,5 +1,5 @@
 //Program to demonstrate Statement Interface
-package com.tnsif.daytwentytwo.v1.statementinterface;
+package com.tnsif.Day22.v1.statementinterface;
 
 public class Executor {
 

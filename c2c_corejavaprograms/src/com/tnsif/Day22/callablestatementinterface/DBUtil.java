@@ -1,5 +1,5 @@
 //Program to demonstrate Database Configuration
-package com.tnsif.daytwentytwo.callablestatementinterface;
+package com.tnsif.Day22.callablestatementinterface;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

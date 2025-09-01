@@ -1,5 +1,5 @@
 //Program to define service class for Employee table
-package com.tnsif.daytwentytwo.v1.scrollableresultset;
+package com.tnsif.Day22.v1.scrollableresultset;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -13,7 +13,7 @@ public class EmployeeService {
 	
 	static {
 		try {
-		con=com.tnsif.daytwentytwo.v1.usingpreparedstatement.DBUtil.getCn();
+		con=com.tnsif.Day22.v1.usingpreparedstatement.DBUtil.getCn();
 		
 			st=con.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE, ResultSet.CONCUR_UPDATABLE);
 			rs=st.executeQuery("SELECT * FROM employee");

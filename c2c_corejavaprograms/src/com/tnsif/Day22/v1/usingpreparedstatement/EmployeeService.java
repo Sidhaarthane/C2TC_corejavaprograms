@@ -1,5 +1,5 @@
 //Program to implement CRUD operation
-package com.tnsif.daytwentytwo.v1.usingpreparedstatement;
+package com.tnsif.Day22.v1.usingpreparedstatement;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
